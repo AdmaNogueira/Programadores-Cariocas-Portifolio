@@ -1,0 +1,10 @@
+.imagem_perfil {
+    width: 150px;
+    height: 150px;
+    float: right;
+    padding: 20px;
+}
+body {
+    background-color: rgb(94, 197, 245);
+    background-image: url("../imagem/background_pikachu.jpeg");
+}
